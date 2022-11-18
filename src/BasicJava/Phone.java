@@ -3,7 +3,7 @@ package BasicJava;
 public class Phone {
 
     // this class is the blueprint of all the phone that ever existed or
-    //will execited
+    //will exist
 
     String color;
     String brand;

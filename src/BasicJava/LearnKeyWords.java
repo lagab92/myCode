@@ -76,6 +76,11 @@ public class LearnKeyWords {
 
 
     }
+    public int methode (){
+        int a=5;
+        int b=4;
+        return a+b;
+    }
 
 
 

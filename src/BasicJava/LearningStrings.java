@@ -3,7 +3,7 @@ package BasicJava;
 public class LearningStrings {
     public static void main(String[] args) {
          // string is a class and also a data type     when you call a string you can
-        // just use the string name instead of the class that was typed in
+        // just use the String name instead of the class that was typed in
         String s = "hello";
         System.out.println(s.length()); // length will count the character in the data type value
 
