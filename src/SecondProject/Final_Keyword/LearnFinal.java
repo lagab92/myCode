@@ -1,7 +1,11 @@
 package SecondProject.Final_Keyword;
 
-import ObjectOrientedProgramming.Polymorphism.MethodeLearningPractice;
+public class LearnFinal {
+     final String brand = "apple";
+     String color = "purple";
+      static int size = 8;
 
 
-    }
+
+
 }

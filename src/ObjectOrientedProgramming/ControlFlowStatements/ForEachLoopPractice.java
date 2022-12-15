@@ -10,4 +10,5 @@ public class ForEachLoopPractice {
         System.out.println(e);
 
     }
+        final int x =17;
 }}
